@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-bee&show_icons=true&locale=en&layout=compact" alt="abhilash-bee" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash-bee&show_icons=true&locale=en" alt="abhilash-bee" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhilash-bee&show_icons=true&locale=en" alt="abhilash-bee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-bee&" alt="abhilash-bee" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-bee&" alt="abhilash-bee" /></p>
