@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
 <h3 align="center">A passionate Java developer, Problem Solver & Logical Thinker from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1yHIT3iOo_aDwaoGokvFNQjch5CgokhhJ/view">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-bee&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-bee" /> </p>
 
